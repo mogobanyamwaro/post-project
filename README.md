@@ -5,7 +5,7 @@
 
 ```api
 {
-  "apiUrl": "http://localhost:3000/api",
+  "apiUrl": "http://localhost:3333/api",
 
 }
 ```
@@ -20,7 +20,7 @@
 
 ```api
 {
-  "apiUrl": "http://localhost:3000/api",
+
 DB_HOST= localhost
 DB_PORT=5432
 DB_USERNAME=moo
